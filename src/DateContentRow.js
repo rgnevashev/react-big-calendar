@@ -1,6 +1,6 @@
 import cn from 'classnames';
-import getHeight from 'dom-helpers/query/height';
-import qsa from 'dom-helpers/query/querySelectorAll';
+import getHeight from 'dom-helpers-fix20/query/height';
+import qsa from 'dom-helpers-fix20/query/querySelectorAll';
 import PropTypes from 'prop-types';
 import React from 'react';
 import { findDOMNode } from 'react-dom';

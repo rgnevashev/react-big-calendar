@@ -2,7 +2,7 @@ import PropTypes from 'prop-types';
 import React from 'react';
 import { findDOMNode } from 'react-dom';
 import EventCell from './EventCell';
-import getHeight from 'dom-helpers/query/height';
+import getHeight from 'dom-helpers-fix20/query/height';
 import { accessor, elementType } from './utils/propTypes';
 import { segStyle } from './utils/eventLevels';
 import { isSelected } from './utils/selection';

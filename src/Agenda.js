@@ -1,8 +1,8 @@
 import PropTypes from 'prop-types';
 import React from 'react';
-import classes from 'dom-helpers/class';
-import getWidth from 'dom-helpers/query/width';
-import scrollbarSize from 'dom-helpers/util/scrollbarSize';
+import classes from 'dom-helpers-fix20/class';
+import getWidth from 'dom-helpers-fix20/query/width';
+import scrollbarSize from 'dom-helpers-fix20/util/scrollbarSize';
 
 import localizer from './localizer'
 import message from './utils/messages';

@@ -1,6 +1,6 @@
-import contains from 'dom-helpers/query/contains';
-import closest from 'dom-helpers/query/closest';
-import events from 'dom-helpers/events';
+import contains from 'dom-helpers-fix20/query/contains';
+import closest from 'dom-helpers-fix20/query/closest';
+import events from 'dom-helpers-fix20/events';
 
 function addEventListener(type, handler) {
   events.on(document, type, handler)

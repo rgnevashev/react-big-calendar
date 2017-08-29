@@ -10,8 +10,8 @@ import TimeColumn from './TimeColumn';
 import DateContentRow from './DateContentRow';
 import Header from './Header';
 
-import getWidth from 'dom-helpers/query/width';
-import scrollbarSize from 'dom-helpers/util/scrollbarSize';
+import getWidth from 'dom-helpers-fix20/query/width';
+import scrollbarSize from 'dom-helpers-fix20/util/scrollbarSize';
 import message from './utils/messages';
 
 import { accessor, dateFormat } from './utils/propTypes';

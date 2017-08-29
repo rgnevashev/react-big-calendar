@@ -9,8 +9,8 @@ import chunk from 'lodash/chunk'
 
 import { navigate, views } from './utils/constants'
 import { notify } from './utils/helpers'
-import getPosition from 'dom-helpers/query/position'
-import raf from 'dom-helpers/util/requestAnimationFrame'
+import getPosition from 'dom-helpers-fix20/query/position'
+import raf from 'dom-helpers-fix20/util/requestAnimationFrame'
 
 import Popup from './Popup'
 import Overlay from 'react-overlays/lib/Overlay'

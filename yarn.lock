@@ -2405,9 +2405,9 @@ dom-converter@~0.1:
   dependencies:
     utila "~0.3"
 
-"dom-helpers-fix20@^2.3.0 || ^3.0.0":
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/dom-helpers-fix20/-/dom-helpers-fix20-3.2.1.tgz#70dc6f8d8e913cb1bbc6ff45673f951794f9688e"
+dom-helpers-fix20@^3.2.4:
+  version "3.2.4"
+  resolved "https://registry.yarnpkg.com/dom-helpers-fix20/-/dom-helpers-fix20-3.2.4.tgz#0f86684ea08187b531c469238dc4749e2697ecfb"
 
 dom-helpers@^2.4.0:
   version "2.4.0"
